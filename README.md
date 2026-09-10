@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Nate 👋
 
-<!--
-**nateusrey-pixel/nateusrey-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a senior studying Finance at Baldwin Wallace University.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 About Me
+
+* 🏫 **Education:** Currently pursuing a Finance degree at Baldwin Wallace University (Expected Graduation: 2027)
+* 🔭 **Current Focus:** Learning Python, SQL, and GitHub.
+* 🌱 **Currently Building:** building my knowledge around coding.
+* 💡 **Interests:** Artificial Intelligence, Finance, Learning.
+* ⚡ **Fun Fact:** I love to play soccer
+
+---
+
+### 📌 Featured Projects
+
+| Project Name | Description | Tech Used |
+| --- | --- | --- |
+| **Time Clock WebApp** | WebApp built on PythonAnywhere using [OpenAI / Claude / Gemini] | `[Python]` `[Flask]` |
+
+
+---
+
+
+### 📫 Connect With Me
+
+* **LinkedIn:** www.linkedin.com/in/nate-usrey-946203327
+* **Email:** nusrey24@bw.edu
+
+
+
+
