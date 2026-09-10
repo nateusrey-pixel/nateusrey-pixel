@@ -2,6 +2,8 @@
 
 I am a senior studying Finance at Baldwin Wallace University.
 
+## Download my resume [Here](https://rawcdn.githack.com/nateusrey-pixel/nateusrey-pixel/a30ec62551c24385b5b8b4c61262f905abfe4e62/Nathan_Usrey_Resume%202026.pdf)
+
 ---
 
 ### 🎓 About Me
